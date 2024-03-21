@@ -64,7 +64,7 @@ feature_index = {} # feature mapping for one-hot encoding
 
 def load_data(filepath, skip_already_labeled=False):
     # csv format: [ID, TEXT, LABEL, SAMPLING_STRATEGY, CONFIDENCE]
-    with open(filepath, 'r') as csvfile:
+    with open(filepath, 'r',encoding="utf8") as csvfile:
         data = []
         reader = csv.reader(csvfile)
         for row in reader:
