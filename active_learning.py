@@ -369,9 +369,9 @@ def train_model(training_data, validation_data = "", evaluation_data = "", num_l
         # make a subset of data to use in this epoch
         # with an equal number of items from each label
 
-        shuffle(training_data) #randomize the order of the training data        
-        related = [row for row in training_data if '1' in row[2]]
-        not_related = [row for row in training_data if '0' in row[2]]
+        shuffle(training_data) #randomize the order of the training data 
+        related = [row for row in training_data if row[2] == '1']
+        not_related = [row for row in training_data if row[2] == '0']
         
         epoch_data = related[:select_per_epoch]
         epoch_data += not_related[:select_per_epoch]

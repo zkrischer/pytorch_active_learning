@@ -459,3 +459,106 @@
 10701894,Unemployment down in WA as national rate rises,0,low confidence,0.543188015877246
 10590734,Housing shortage not as certain as we think,0,low confidence,0.556674593961248
 10411082,Petersen hits out as Proteas take control,0,low confidence,0.5381068619807691
+10106148,NSW ministers to defy church over stem cell research,0,random_remaining,0
+10254818,Drugs found at police station,0,random_remaining,0
+10638144,Working dogs and their handlers: Monica and Chloe,0,random_remaining,0
+10969415,"Perth woman conned out of $468,500 in romance scam linked to Dubai hotel project",0,random_remaining,0
+11028769,Australian fish in safe hands,0,random_remaining,0
+10956416,Chaos in parliament on final sitting day,0,cluster_member,0.42820990085601807
+10373560,Doctors pull 28 nails from girl's body,0,cluster_member,0.43053287267684937
+10501918,Couple denies manslaughter charge over relative's death,0,cluster_member,0.3332459330558777
+10915335,"JetGo enters voluntary administration, cancels all regional flights amid legal battle",0,cluster_member,0.21926990151405334
+10122818,Countries call for restraint after Burma protest warning,0,cluster_centroid,0.6759818196296692
+10246980,AXA up 34pc after rejecting AMP takeover bid,0,cluster_member,0.39911484718322754
+10888100,Gin and Lewis: Hottest 100 cocktails from the textline,0,cluster_member,0.5853138566017151
+10890188,Money Changer di Dubai Diduga Jadi Saluran Pencucian Uang,0,cluster_centroid,0.654266357421875
+10608967,"Proposed anti-bikie laws similar to anti-terrorism measures, SA attorney-general says",0,cluster_member,0.4506605863571167
+10572405,Perth's new Fiona Stanley Hospital grapples with unexpected jump in number of emergency patients: doctor,0,cluster_member,0.4439791142940521
+10548509,"The Internet: the good, the bad and the uglyÂ ",0,cluster_centroid,0.8151078224182129
+10970910,The Drum Wednesday February 13,0,cluster_member,0.29893940687179565
+11023404,Best Advice: Lulu Wang,0,cluster_member,0.05563072860240936
+10439113,Six in custody after more murder arrests  ,0,cluster_member,0.4236457347869873
+10908571,Labor welcomes additional funding pledged by Federal Government to restore Great Barrier Reef ,0,cluster_member,0.31696078181266785
+10780744,Sleep tips for worrywarts,0,random_remaining,0
+10924994,Vinyl Sides,0,cluster_outlier,0.9706152305006981
+10383254,Thomson Fair Work probe nears conclusion,0,cluster_member,0.18078230321407318
+10632923,"NRL secures new free to air television deal with Channel Nine, Origin match to be played on Sunday from 2018",0,cluster_centroid,0.6926555037498474
+10552108,Fiji government amends Land Sales Act to restrict foreign property ownership,0,random_remaining,0
+10005708,Honey Wheat Loaf,0,cluster_outlier,0.9520628526806831
+11052192,Christmas turkey deliveries made more difficult because of farmer's phone troubles,0,cluster_centroid,0.7510467171669006
+10808290,Seasickness and science: Are your 'sea legs' in your brain or your muscles?,0,cluster_outlier,0.7331134676933289
+10569342,Man faces charges after 42-hour Launceston siege comes to an end,0,cluster_member,0.34593284130096436
+10902490,"The Conversation Hour:  Mark Seymour, Jack Levi (aka Elliot Goblet), and Vince Sorrenti with Dave Hughes",0,cluster_member,0.36565038561820984
+10289579,Chocolate caramel slice,0,cluster_centroid,0.7966169118881226
+10785353,Work struggle for former FIFO worker as thousands of full-time WA jobs lost,0,cluster_member,0.5338903665542603
+10929491,"Ben Stokes trial: England cricketer mocked gay men before alleged assault, court hears",0,cluster_member,0.2657105028629303
+10658090,"Pregnant asylum seeker returned to Nauru over change of mind, PM says",0,cluster_member,0.431478351354599
+10203915,Symonds injured as Redbacks make solid start,0,cluster_centroid,0.5506215691566467
+11073524,"APS in action, Captain Cook, The Pick",0,cluster_member,0.3870912492275238
+11104232,"Chief Public Health Officer Nicola Spurrier's advice was overruled, parliamentary committee hears",0,cluster_member,0.12783510982990265
+10354719,Reds re-sign veteran forwards,0,cluster_member,0.07791813462972641
+10764822,Indigenous leaders plead for prison alternatives for NT youth ahead of Wave Hill walk-off anniversary,0,cluster_centroid,0.7587456107139587
+10679395,Mick Fanning makes dream start at Pipe Masters while nearest rivals Filipe Toledo and Adriano de Souza face elimination heats,0,cluster_outlier,0.7493969202041626
+10306396,Rate rise will kill Christmas: retailers,0,cluster_member,0.2872191369533539
+11136957,Henny Penny,0,cluster_outlier,0.9865923458710313
+10259378,Woodford Folk Festival,0,cluster_member,0.5356355309486389
+10538138,Tasmania's anti-protest laws pass Upper House hurdle,0,cluster_centroid,0.325909823179245
+10060283,Steamed pudding,0,cluster_outlier,0.9872406125068665
+11142300,Damaged livestock ship banned from using Australian ports for two years,0,cluster_member,0.5922311544418335
+10792569,Why Marlowe co-wrote Shakespeare's Henry VI,0,cluster_member,0.10016366094350815
+10019253,GPA supports Oakajee deep water port,0,cluster_member,0.21206632256507874
+10479279,Indonesia spying letter hand-delivered by former Army chief,0,cluster_member,0.24795526266098022
+10191248,McGrath honoured as NSW Australian of the Year,0,cluster_member,0.5395715236663818
+10095123,Summit rejects Paladin's $1b takeover bid,0,cluster_outlier,0.9280930608510971
+10466629,Natural Muesli,0,cluster_outlier,0.9606631360948086
+10544232,"Jacqui Lambie demoted as deputy Senate leader, deputy whip of Palmer United Party",0,cluster_outlier,0.722730964422226
+10676867,Senate inquiry told foreign flagged ships could pose terror risk,0,cluster_member,0.18648971617221832
+11025822,Dodgy Donations,0,cluster_outlier,0.9757098946720362
+10824418,Guilty Pleasures,0,cluster_outlier,0.9634207263588905
+10994526,"Over the Hunter, with the eagles",0,cluster_centroid,0.7196251749992371
+10531927,"NT grants 'major project status' to 1,000km gas pipeline",0,cluster_member,0.6315725445747375
+10078872,Bush praises Indonesia,0,cluster_member,0.17576953768730164
+10019452,Claims of sexual harrassment aired in NZ campaign.,0,cluster_member,0.4021051228046417
+11061350,Anthony Albanese: 'This is an absolute wreck of a government',0,cluster_centroid,0.6676303148269653
+10150330,Tasmanian student off to Gallipoli,0,cluster_centroid,0.7485147714614868
+10295711,Court rules workplace unsafe,0,cluster_member,0.4269154965877533
+10777571,The Big Lez Show and The Mike Nolan Show bring crude cartoon fame to young trio,0,cluster_outlier,0.6605170965194702
+10382858,Windschuttle an authority on constitutional law?,0,cluster_member,0.3947865068912506
+10358859,Train maintenance facility on track,0,cluster_member,0.42610713839530945
+10882209,"Priest, detective, lover",0,cluster_outlier,0.9595277681946754
+10873143,Explain This: Wine,0,cluster_outlier,0.9627147614955902
+11016180,"ASX to rise, Wall Street boosted by US-China trade optimism and strong earnings ",0,cluster_member,0.39562705159187317
+10886202,Weekend Lunch,0,cluster_outlier,0.9714763928204775
+10684735,Child care groups fear Fed Gov overhaul may force closure of remote centres,0,cluster_centroid,0.8281254172325134
+10869512,SA Police release 'horrific' details of injuries to 11mo Dylan Lindsay in bid to 'spark a conscience',0,cluster_centroid,0.656982421875
+10683658,Popularity of Tasmanian devil cartoon character helps researchers raise funds to save species,0,cluster_member,0.41159698367118835
+10299700,Libs claim Labor-Green deal costing jobs,0,random_remaining,0
+10479207,Australian population to double more quickly than expected: ABS,0,cluster_member,0.6188021898269653
+10935297,Australia's largest maritime exercise underway with China participating for first time,0,cluster_member,0.490455687046051
+10545718,Praise for state's new Corrective Services Aboriginal Advisory Council,0,cluster_member,0.41528287529945374
+10976098,'Boiler Room kings': Fans and musicians mourn Keith Flint,0,cluster_member,0.3211618959903717
+10475919,When ministers operate on a wink and a nudge,0,cluster_centroid,0.7631301879882812
+10631755,Qld students most improved in NAPLAN: preliminary results,0,cluster_member,0.3797178268432617
+10616947,Yemen 'one step away from famine' amid stalled ceasefire talks,0,cluster_outlier,0.7408163845539093
+10898034,School community shocked at Trinity sacking,0,cluster_member,0.28047794103622437
+10377962,Kuzimski found guilty of double murder,0,cluster_centroid,0.7705691456794739
+10946443,Yo-Kai Watch 2,0,cluster_outlier,0.9240795224905014
+10474449,Fears City Place revamp hurting Lake St traders,0,cluster_member,0.13631242513656616
+10619254,Champix probe: Queensland coroner reopens investigation into anti-smoking drug's possible link to 22yo man's suicide,0,cluster_outlier,0.6144102215766907
+10536640,"Kurtley Beale returns to training, aiming for Wallabies call-up after Di Patston text message scandal",0,cluster_outlier,0.6259909272193909
+11016600,UAE could use Australian weapons systems in attacks against Yemen,0,cluster_member,0.3902464210987091
+10411844,Toyota recalls Aurion and Camry models,0,random_remaining,0
+10143810,Fire rips through London's Camden Market,0,cluster_member,0.1533002406358719
+10623278,New Zealand launches appeal over Olympic expulsion,0,cluster_member,0.3375737965106964
+10830039,Foodie Tuesday: Pumpkin,0,cluster_member,0.088325634598732
+11037830,Woman dies after fire truck and car collide in 'horrific' Canberra crash,0,cluster_member,0.42756766080856323
+10615610,Armidale Court House Land Claim offset deal considered,0,random_remaining,0
+10534672,Business in 90 Seconds,0,cluster_member,0.501686692237854
+10001481,The U.S. In The Philippines,0,cluster_member,0.397612988948822
+10791500,Summer time: What illnesses should we look out for?,0,cluster_member,0.23063772916793823
+10237893,Blaze rips through Bulli house,0,cluster_member,0.3011878430843353
+10646453,"Andrew Hastie speaks to Malcolm Turnbull, Tony Abbott",0,cluster_member,0.37587031722068787
+10069583,Labor attacks Govt over 'false' horticultural code promise,0,cluster_member,0.36306148767471313
+10541193,Tasmanian tourism awards showcase industry's leading lights,0,cluster_centroid,0.7620915174484253
+10337361,Brawl outside 'black magic' rape sentencing,0,cluster_member,0.16895242035388947
+10864764,Room sharing is the new flat sharing,0,cluster_member,0.4033847153186798
