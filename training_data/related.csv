@@ -96,3 +96,16 @@
 10582620,"Sydney Olympic Park fire: Cause unknown for blaze that destroyed 47 cars, damaged dozens more",1,low confidence,0.5293053803213016
 10045796,Cyclone threat diminishes,1,cluster_centroid,0.57524573802948
 10835735,Increase in civilian casualties in Afghanistan,1,cluster_centroid,0.7043508887290955
+10774636,Flood fears ease as Tasmanian rains slowly clear,1,cluster_member,0.34455135464668274
+10567886,Northcliffe residents allowed to return as fire threat eases,1,cluster_member,0.37998053431510925
+10067905,More than 30 drown as boat capsizes in India,1,cluster_member,0.43436992168426514
+10529842,South and North Korean naval boats exchange fire,1,cluster_member,0.38485434651374817
+11137760,Queensland heatwave to ease as southern winds bring temperatures down across the state,1,cluster_member,0.35893794894218445
+11059694,Confusion as Pacific students stranded in Wuhan want to evacuate,1,cluster_member,0.4636778235435486
+10532283,"One dead, dozens injured as ex-Typhoon leaves Japan",1,cluster_member,0.3500831425189972
+10425976,Severe storms sweep through SE Queensland,1,cluster_member,0.37960344552993774
+11156275,Troops coming to assist as receding NSW flood waters reveal heartbreaking devastation,1,cluster_member,0.3400419056415558
+10594971,"The earthquake in Nepal will have a huge impact on the country's ability to grow and transport fresh food, according to John Dixon from the Australian Centre for International Agricultural Research",1,predicted_error,0.9824227240706427
+10971740,'Extraordinarily large' muddy flood plume seeps into Great Barrier Reef,1,random_remaining,0
+11015175,Drought forces sheep market to cancel for the third month in a row for the first time ever,1,predicted_error,0.9811465782712647
+11056796,"Golf ball-sized hail, a town engulfed by a giant dust storm, two people struck by lightning â and that's just 24 hours in Australia ",1,predicted_error,0.9819224877586444
